@@ -1,0 +1,11 @@
+*{
+  margin:0;
+  padding: 0;
+}
+nav{
+  margin-top: 0 !important;
+  width: 100% !important;
+}
+.collapse {
+  justify-content: flex-end !important;
+}
